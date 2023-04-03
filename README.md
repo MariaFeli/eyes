@@ -1,3 +1,3 @@
 # Eyes
 ## Eyes following mouse movement
-<img src= "dog-eye.jpeg" width ='300'/>
+<img src= "eyes-mouse-activity.jpg" width ='300'/>
